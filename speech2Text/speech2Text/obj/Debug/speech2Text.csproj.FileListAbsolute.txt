@@ -1,0 +1,136 @@
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\speech2Text.exe.config
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\speech2Text.exe
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\speech2Text.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.Core.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.LongRunning.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Protobuf.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Auth.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Core.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\NAudio.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\System.Interactive.Async.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\System.Net.Http.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Zlib.Portable.dll
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Apis.Core.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.LongRunning.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.LongRunning.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Protobuf.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Google.Protobuf.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Auth.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Auth.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Core.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Core.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\NAudio.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\System.Interactive.Async.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\bin\Debug\Zlib.Portable.xml
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.csprojAssemblyReference.cache
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.Form1.resources
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.Properties.Resources.resources
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.csproj.GenerateResource.cache
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.csproj.CopyComplete
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.exe
+C:\Users\Joshua Du Preez\source\repos\speech2Text\speech2Text\obj\Debug\speech2Text.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\speech2Text.exe.config
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\speech2Text.exe
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\speech2Text.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.Core.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.LongRunning.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Protobuf.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Auth.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Core.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\NAudio.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\System.Interactive.Async.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\System.Net.Http.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Zlib.Portable.dll
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Apis.Core.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.LongRunning.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.LongRunning.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Google.Protobuf.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Auth.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Auth.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Core.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Core.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\NAudio.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\System.Interactive.Async.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\bin\Debug\Zlib.Portable.xml
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.Form1.resources
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.Properties.Resources.resources
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.csproj.GenerateResource.cache
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.csproj.CoreCompileInputs.cache
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.csproj.CopyComplete
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.exe
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.pdb
+C:\Users\Rendi\Desktop\speech2Text\speech2Text\obj\Debug\speech2Text.csprojAssemblyReference.cache
