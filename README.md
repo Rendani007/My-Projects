@@ -1,2 +1,2 @@
 # My-Projects
-Projects I did in collaboration with partners
+Projects I was involved in.
